@@ -1,16 +1,16 @@
-DEsafio proposto pela Devnology
+# Desafio proposto pela Devnology
 
-Descrição
+# Descrição
 Sistema Web com frontend em Flutter e backend em NodeJs.
 
-Entregas & Decisões
+# Entregas & Decisões
 
 
 
 Settings
 
 antes de tudo é necessário clonar o repositório
-$ git clone https://github.com/meugithub/devnology-frontend.git
+git clone https://github.com/Emersonovidio/devnology-frontend
 
 use o comando 'flutter doctor' para checar a instalação e se há erros
 agora use o comando 'flutter packages get' para instalar as dependências
@@ -21,9 +21,9 @@ agora use o comando 'flutter packages get' para instalar as dependências
 
 
 
-#Observacoes
-semelhanca com react,(primo do react kkkkk), dá pra usar construtor e estilizar tela no mesmo arquivo
-# atalhos
+Observacoes:
+semelhanca com react,(primo do react kkkkk), dá pra usar construtor e estilizar tela no mesmo arquivo,
+#atalhos
 digtar stf dentro do arquivo - gera widget stateful
 tela Login
 https://www.macoratti.net/19/07/flut_tlogin2.htm
