@@ -28,7 +28,9 @@ Algumas curiosidades que me chamaram a atenção sobre o Dart,por exemplo, é o 
 #comandos utilizados no projeto
 
 flutter pub get - instala a versao indicado no pubspec.yaml
+
 flutter packages get  - instala depencias 
+
 flutter doctor - checha se há erros na instalação
 
 
